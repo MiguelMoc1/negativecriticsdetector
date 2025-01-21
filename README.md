@@ -47,7 +47,3 @@ Film Junky Union busca automatizar la clasificación de reseñas de películas c
 - **Métricas:** F1-score, ROC AUC, APS.
 
 ---
-
-### Repositorio
-Encuentra el código completo y el análisis detallado en mi [perfil de GitHub](#).  
-Descubre cómo el análisis de datos puede transformar la industria del entretenimiento. 🚀
